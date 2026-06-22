@@ -297,14 +297,20 @@
 
     .first_cardss_2{
         display: flex;
-        justify-content: center;
         flex-direction: column;
+        margin: 0;
+    }
+
+    .footer{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
     }
 
     .second_cardss_2{
         display: flex;
-        justify-content: center;
         flex-direction: column;
+        margin: 0;
     }
 
     * {
